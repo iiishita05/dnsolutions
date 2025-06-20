@@ -1,0 +1,14 @@
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\bin\Debug\net8.0\FactoryMethodPatternC#.exe
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\bin\Debug\net8.0\FactoryMethodPatternC#.deps.json
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\bin\Debug\net8.0\FactoryMethodPatternC#.runtimeconfig.json
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\bin\Debug\net8.0\FactoryMethodPatternC#.dll
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\bin\Debug\net8.0\FactoryMethodPatternC#.pdb
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.dll
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\refint\FactoryMethodPatternC#.dll
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.pdb
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\FactoryMethodPatternC#.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\FactoryMethodPatternC#\obj\Debug\net8.0\ref\FactoryMethodPatternC#.dll
