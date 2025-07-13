@@ -13,7 +13,7 @@ namespace KafkaWinFormChat
 
         private async void btnSend_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button was clicked!");
+            
 
             var config = new ProducerConfig
             {
